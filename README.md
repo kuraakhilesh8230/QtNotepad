@@ -1,2 +1,2 @@
-# QtNotepad
-This is a an effort to try and use Qt5 the c++ gui toolkit. The notepad app is about 50KB in size and is a standalone executable with basic functionalities such as opening, saving, printing and creating new files.
+# SimpleWebsite
+The content, style, and interactive logic are separated into HTML, CSS, and JavaScript files, respectively. A design principle in modern programming is separation of concerns. Among the many reasons to separate concerns, two are simplicity and reuse. For example, by styling HTML elements using CSS, you can simplify your HTML code. Instead of coding the appearance within each element, you apply CSS styles to all the elements on a page, regardless of the page complexity. In addition, you can link multiple HTML pages to a single CSS file, which can help simplify a consistent look and feel across your entire website.
